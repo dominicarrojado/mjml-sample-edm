@@ -10,7 +10,7 @@
       <mj-class name="body-text" font-size="14px" line-height="22px" />
       <mj-class name="list-text" padding-top="10px" font-size="14px" line-height="28px" />
       <mj-class name="footer-text" font-size="12px" line-height="18px" />
-      <mj-class name="btn" border-radius="8px" inner-padding="7px 103px" align="center" font-size="14px" font-weight="500" line-height="22px" />
+      <mj-class name="btn" border-radius="8px" inner-padding="7px 103px" align="center" font-size="14px" font-weight="500" line-height="22px" fluid-on-mobile="true" />
 
       <mj-class name="benefit" padding="20px 5px 0 5px" />
       <mj-class name="benefit-img" align="center" width="100px" height="100px" />
@@ -41,11 +41,11 @@
       }
 
       .text-blue {
-        color: #007BFF !important;
+        color: #007BFF;
       }
 
       .text-gray {
-        color: #6C757D !important;
+        color: #6C757D;
       }
     </mj-style>
     <!-- End Inline Styles -->
@@ -71,12 +71,7 @@
         background-color: #212529 !important;
       }
 
-
       @media only screen and (max-width: 599px) {
-        .mobile-hide {
-          display: none !important;
-        }
-
         .company-footer-img {
           padding-top: 20px !important;
           text-align: left !important;
@@ -248,7 +243,7 @@
       <mj-section background-color="#E2E3E5" border-radius="0 0 5px 5px">
         <mj-group>
           <mj-column>
-            <mj-button href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-dark" padding="35px 0 20px" background-color="#343A40" color="#FFFFFF">
+            <mj-button href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-dark" padding="35px 15px 20px" background-color="#343A40" color="#FFFFFF">
               Vivamus Rhoncus
             </mj-button>
           </mj-column>
