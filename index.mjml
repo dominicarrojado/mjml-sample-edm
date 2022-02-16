@@ -143,7 +143,7 @@
     <mj-section>
       <mj-group>
         <mj-column background-color="#FFFFFF" padding="20px">
-          <mj-image href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" src="images/logo.jpeg" alt="logo" width="130px" height="35px" />
+          <mj-image href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" src="images/logo.jpeg" alt="logo" width="130px" height="35px" />
         </mj-column>
       </mj-group>
     </mj-section>
@@ -185,13 +185,13 @@
           <mj-text mj-class="list-text">
             6. Morbi tempor massa eget faucibus molestie?
           </mj-text>
-          <mj-button href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-outline-dark" padding-top="20px" border="1px solid #343A40" background-color="transparent" color="#343A40">
+          <mj-button href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-outline-dark" padding-top="20px" border="1px solid #343A40" background-color="transparent" color="#343A40">
             Proin Vestibulum Dui
           </mj-button>
           <mj-text mj-class="body-text" padding-top="20px">
             Aenean a neque non tortor faucibus auctor? <br>
             Sem luctus ex
-            <a href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" class="body-anchor-text">
+            <a href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" class="body-anchor-text">
               Cras Porta Dapibus</a>
             Proin pulvinar tortor vel quam feugiat.
           </mj-text>
@@ -243,7 +243,7 @@
       <mj-section background-color="#E2E3E5" border-radius="0 0 5px 5px">
         <mj-group>
           <mj-column>
-            <mj-button href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-dark" padding="35px 15px 20px" background-color="#343A40" color="#FFFFFF">
+            <mj-button href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" mj-class="btn" css-class="btn-dark" padding="35px 15px 20px" background-color="#343A40" color="#FFFFFF">
               Vivamus Rhoncus
             </mj-button>
           </mj-column>
@@ -261,7 +261,7 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" css-class="company-footer-img" src="images/logo.jpeg" alt="logo" width="93px" height="25px" align="right" padding="10px 0" />
+        <mj-image href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" css-class="company-footer-img" src="images/logo.jpeg" alt="logo" width="93px" height="25px" align="right" padding="10px 0" />
       </mj-column>
     </mj-section>
     <!-- End Company Footer -->
@@ -275,10 +275,10 @@
             contact@example.com</a>
         </mj-text>
         <mj-text mj-class="footer-text" padding-top="15px">
-          <a href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" class="footer-anchor-text text-gray">
+          <a href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" class="footer-anchor-text text-gray">
             Terms of Service</a>
           |
-          <a href="https://www.example.com/" target="_blank" rel="noopener noreferrer nofollow" class="footer-anchor-text text-gray">
+          <a href="https://dominicarrojado.com" target="_blank" rel="noopener noreferrer nofollow" class="footer-anchor-text text-gray">
             Privacy Policy</a>
         </mj-text>
         <mj-text mj-class="footer-text" padding-top="5px">
@@ -291,6 +291,17 @@
       </mj-column>
     </mj-section>
     <!-- End Footer -->
+
+    <!-- Link to Blog -->
+    <mj-section padding="30px 0">
+      <mj-column>
+        <mj-text align="center">
+          <a href="https://dominicarrojado.com/posts/building-an-email-template-with-mjml-framework/" target="_blank" rel="noopener noreferrer nofollow" class="footer-anchor-text text-gray">
+            Learn how to build this email template with MJML framework</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Link to Blog -->
 
   </mj-body>
 </mjml>
