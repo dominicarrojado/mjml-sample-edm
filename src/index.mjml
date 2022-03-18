@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>MJML Sample Email Template - Dominic Arrojado</mj-title>
+    <mj-title>MJML Sample Email Template | Dominic Arrojado</mj-title>
 
     <!-- Global Attributes -->
     <mj-breakpoint width="600px" />
@@ -112,17 +112,17 @@
       <link rel="canonical" href="https://dominicarrojado.com/mjml-sample-edm/" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="MJML Sample Email Template - Dominic Arrojado" />
+      <meta property="og:title" content="MJML Sample Email Template | Dominic Arrojado" />
       <meta property="og:description" content="Sample email template using MJML email framework" />
       <meta property="og:url" content="https://dominicarrojado.com/mjml-sample-edm/" />
-      <meta property="og:site_name" content="MJML Sample Email Template - Dominic Arrojado" />
+      <meta property="og:site_name" content="Dominic Arrojado" />
       <meta property="og:image" content="https://dominicarrojado.com/mjml-sample-edm/images/screenshot.png" />
       <meta property="og:image:secure_url" content="https://dominicarrojado.com/mjml-sample-edm/images/screenshot.png" />
       <meta property="og:image:width" content="2880" />
       <meta property="og:image:height" content="1800" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:description" content="Sample email template using MJML email framework" />
-      <meta name="twitter:title" content="MJML Sample Email Template - Dominic Arrojado" />
+      <meta name="twitter:title" content="MJML Sample Email Template | Dominic Arrojado" />
       <meta name="twitter:image" content="https://dominicarrojado.com/mjml-sample-edm/images/screenshot.png" />
     </mj-raw>
   </mj-head>
