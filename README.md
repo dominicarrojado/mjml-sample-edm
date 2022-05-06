@@ -38,3 +38,7 @@ yarn build
 ## VSCode Extensions
 
 - [MJML](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml)
+
+## Learn
+
+Learn how to build this email template [here](https://dominicarrojado.com/posts/building-an-email-template-with-mjml-framework/).
