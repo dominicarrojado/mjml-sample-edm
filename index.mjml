@@ -127,6 +127,18 @@
     </mj-raw>
   </mj-head>
   <mj-body mj-class="body" background-color="#F2F2F2">
+    <!-- Google AdSense Unit (Header) -->
+    <mj-raw>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3632473845121107" crossorigin="anonymous"></script>
+      <div style="max-width: 1200px; margin: 30px auto;">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3632473845121107" data-ad-slot="2299922139" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      </div>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </mj-raw>
+    <!-- End Google AdSense Unit (Header) -->
+
     <!-- Email Title -->
     <mj-section>
       <mj-group>
@@ -302,6 +314,18 @@
       </mj-column>
     </mj-section>
     <!-- End Link to Blog -->
+
+    <!-- Google AdSense Unit (Footer) -->
+    <mj-raw>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3632473845121107" crossorigin="anonymous"></script>
+      <div style="max-width: 1200px; margin: 30px auto;">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3632473845121107" data-ad-slot="3221836158" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      </div>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </mj-raw>
+    <!-- End Google AdSense Unit (Footer) -->
 
   </mj-body>
 </mjml>
