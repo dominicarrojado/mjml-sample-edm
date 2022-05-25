@@ -71,6 +71,10 @@
         background-color: #212529 !important;
       }
 
+      .adsbygoogle[data-ad-status='unfilled'] {
+        display: none !important;
+      }
+
       @media only screen and (max-width: 599px) {
         .company-footer-img {
           padding-top: 20px !important;
